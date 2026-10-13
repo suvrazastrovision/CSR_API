@@ -1,6 +1,6 @@
 # CSR Blog API
 
-A small Flask project for managing blog posts through a REST API. It includes a simple frontend and interactive API documentation powered by Swagger UI.
+A small demo Flask project that is created during my learning journey for managing blog posts through a REST API. It includes a simple frontend and interactive API documentation powered by Swagger UI.
 
 ## Setup
 

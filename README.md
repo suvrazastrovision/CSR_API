@@ -1,6 +1,6 @@
 # Client Side Rendering (CSR) Blog API
 
-A small demo Flask-based demo project for managing blog posts through a REST API. It includes a simple frontend and interactive API documentation powered by Swagger UI.
+A small Flask-based demo project for managing blog posts through a REST API. It includes a simple frontend and interactive API documentation powered by Swagger UI.
 
 ## Setup
 
